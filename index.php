@@ -148,6 +148,10 @@
     // Pre-decrement (decrements then returns value)
     echo "Pre-decrement: " . --$count . "<br>"; // Decrements to 5, then outputs
     echo "Final count: $count <br>"; // Outputs 5
+
+
+
+    
     ?>
 </body>
 
