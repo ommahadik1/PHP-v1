@@ -6,4 +6,4 @@ $currentYear = date("2025");
 echo "Name: " . $name . "<br>";
 echo "Current Year: " . $currentYear;
 
-?>
+?>  
